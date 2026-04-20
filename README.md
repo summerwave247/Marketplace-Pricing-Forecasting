@@ -18,8 +18,7 @@ This project studies how to improve marketplace price guidance by comparing base
 notebooks/
   01_data_processing_clustering_xgboost.ipynb
   02_sku_features_arima.ipynb
-data/
-  README.md
+README.md
 ```
 
 ## Methods used
