@@ -23,22 +23,22 @@ data/
 ```
 
 ## Methods used
--Feature engineering
--Error analysis
--Clustering
--XGBoost
--ARIMA
--Segment-level performance comparison
+- Feature engineering
+- Error analysis
+- Clustering
+- XGBoost
+- ARIMA
+- Segment-level performance comparison
 
 ## Key business question
 Which products need more tailored pricing logic, and when does a simple baseline break down?
 
 ## Notes
--Raw data is not included in this repository
--The notebooks were originally developed in Jupyter during an iterative project workflow
--This repo keeps the analysis in notebook form for readability and project transparency
+- Raw data is not included in this repository
+- The notebooks were originally developed in Jupyter during an iterative project workflow
+- This repo keeps the analysis in notebook form for readability and project transparency
 
 ## Future improvements
--Refactor repeated logic into scripts
--Add a cleaner evaluation pipeline
--Export a presentation-style summary notebook
+- Refactor repeated logic into scripts
+- Add a cleaner evaluation pipeline
+- Export a presentation-style summary notebook
