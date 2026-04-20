@@ -20,6 +20,7 @@ notebooks/
   02_sku_features_arima.ipynb
 data/
   README.md
+```
 
 ## Methods used
 -Feature engineering
